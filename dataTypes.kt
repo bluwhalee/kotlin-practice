@@ -1,0 +1,10 @@
+// Numbers
+//     Byte
+//     Short
+//     Int
+//     Long
+//     Float
+//     Double
+// Characters
+// Booleans
+// Arrays
